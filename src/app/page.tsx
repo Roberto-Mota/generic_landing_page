@@ -5,7 +5,7 @@ export default function Home() {
     <>
     <header>
         <div className="container">
-            <h1>COFFEE SHOPS TIA ROSA</h1>
+            <h1>COFFEE SHOP TIA ROSA</h1>
             <nav>
                 <ul>
                     <li><a href="#about">Sobre Nós</a></li>
@@ -25,7 +25,7 @@ export default function Home() {
 
     <section id="about" className="container">
         <h2>Sobre Nós</h2>
-        <p>O COFFEE SHOPS TIA ROSA é dedicado a oferecer os melhores cafés e um ambiente confortável para nossos clientes. Nossa missão é proporcionar uma experiência única, combinando sabores incríveis com um espaço aconchegante.</p>
+        <p>O COFFEE SHOP TIA ROSA é dedicado a oferecer os melhores cafés e um ambiente confortável para nossos clientes. Nossa missão é proporcionar uma experiência única, combinando sabores incríveis com um espaço aconchegante.</p>
     </section>
 
     <section id="products" className="container">
@@ -55,7 +55,7 @@ export default function Home() {
 
     <footer>
         <div className="container">
-            <p>&copy; 2024 COFFEE SHOPS TIA ROSA. Todos os direitos reservados.</p>
+            <p>&copy; 2024 COFFEE SHOP TIA ROSA. Todos os direitos reservados.</p>
         </div>
     </footer>
     </>
